@@ -1,6 +1,6 @@
-//   @gofywi
-//   student
-//   currently learning jsx, react
+<...@gofywi />
+<... student />
+<... currently learning jsx, react />
 
 
 <!---
